@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>메시지 띄우기</title>
+</head>
+<script th:inline="javascript">
+
+    /*<![CDATA[*/
+
+    var message = [[${message}]];
+    alert(message);    <!--화면에 문구를 출력해주는 창을 띄어주는 함수 = alert!-->
+
+    location.replace([[${searchUrl}]]);
+    /*]]>*/
+
+</script>
+
+<body>
+
+</body>
+</html>
