@@ -11,7 +11,7 @@ intellij 2022.03
 
 # Display
 ### 글 작성
-![image](https://user-images.githubusercontent.com/90494150/229337461-49c678d9-d3be-4626-a9ef-07294c16255b.png)
+![image](https://user-images.githubusercontent.com/90494150/231495606-e3ea310f-42e5-4f90-b2b0-195910b3c2ea.png)
 
 ###파일 업로드
 ![image](https://user-images.githubusercontent.com/90494150/229337537-8bd1db70-ae7e-4194-83ec-454b3aee5723.png)
